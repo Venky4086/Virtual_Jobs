@@ -1,0 +1,1 @@
+[30-Sep-2021 09:26:38 UTC] PHP Fatal error:  Trait 'App\Http\Controllers\Api\AuthenticatesUsers' not found in /home4/analogit/jobs.analogit.in/app/Http/Controllers/Api/jobController.php on line 29
